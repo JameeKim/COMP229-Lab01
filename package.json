@@ -1,0 +1,22 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JameeKim/COMP229-Lab01.git"
+  },
+  "author": "Dohyun Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JameeKim/COMP229-Lab01/issues"
+  },
+  "homepage": "https://github.com/JameeKim/COMP229-Lab01#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
